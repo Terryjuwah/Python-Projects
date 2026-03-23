@@ -21,8 +21,13 @@ with a focus on monetizable, real-world applications.
 - Financial Algorithms, Simulation & Trading Bots
 
 ## Projects
-(Building — first projects coming soon)
 
+| Project | Description | Skills Demonstrated |
+|---------|-------------|---------------------|
+| **Number Guessing Game** | CLI game with 6 attempts, hints, and input validation | Functions, loops, try/except |
+| **Daily Expense Tracker** | Track and categorize daily spending | Lists, dictionaries, file I/O |
+| **Personal Info Card** | Digital business card generator | String formatting, user input |
+| **Simple ATM** | Banking simulation with PIN and balance | Conditionals, loops, state management |
 ## Tools & Libraries
 
 **Core:** Python 3, Git, GitHub  
