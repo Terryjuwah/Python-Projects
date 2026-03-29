@@ -20,14 +20,15 @@ with a focus on monetizable, real-world applications.
 - Data Science & Analysis (pandas, plotly, jupyter)
 - Financial Algorithms, Simulation & Trading Bots
 
-## Projects
+## Projects Portfolio
 
-| Project | Description | Skills Demonstrated |
-|---------|-------------|---------------------|
-| **Number Guessing Game** | CLI game with 6 attempts, hints, and input validation | Functions, loops, try/except |
-| **Daily Expense Tracker** | Track and categorize daily spending | Lists, dictionaries, file I/O |
-| **Personal Info Card** | Digital business card generator | String formatting, user input |
-| **Simple ATM** | Banking simulation with PIN and balance | Conditionals, loops, state management |
+| # | Project | Description | Skills |
+|---|---------|-------------|--------|
+| 1 | **Number Guessing Game** | CLI game with 6 attempts, hints, and input validation | Functions, loops, try/except |
+| 2 | **Daily Expense Tracker** | Track and categorize daily spending | Lists, dictionaries, file I/O |
+| 3 | **Personal Info Card** | Digital business card generator | String formatting, user input |
+| 4 | **Simple ATM** | Banking simulation with PIN and balance | Conditionals, loops, state management |
+| 5 | **Student Gradebook** | Stores courses and scores, calculates average, finds best/worst, prints formatted report | Lists, append, indexing, for loops, functions, return values, try/except, f-strings, global scope |
 ## Tools & Libraries
 
 **Core:** Python 3, Git, GitHub  
